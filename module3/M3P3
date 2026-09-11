@@ -1,0 +1,5 @@
+amount = float(input("Enter the total amount received: $"))
+
+share = amount / 3
+
+print(f"\nEach person will receive: ${share:.2f}")
