@@ -2,10 +2,8 @@ make = input("Enter make:")
 model = input("Enter model:")
 msrp = float(input("Enter MSRP: $"))
 discount_percent = float(input("Enter discount percent as a decimal: "))
-
 discount_amount = msrp * discount_percent
 discounted_price = msrp - discount_amount
-
 print("\nMake:",make)
 print("Model:",model)
 print(f"MSRP: ${msrp:.2f}")
