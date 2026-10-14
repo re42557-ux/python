@@ -1,0 +1,10 @@
+Adans
+50000
+Jordan
+75000
+Smith
+45000
+Shafer
+105000
+Fiero
+60000
