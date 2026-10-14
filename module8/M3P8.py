@@ -1,7 +1,7 @@
 total_bonus = 0.0
 print(f"{'employee':<12}{'salary':>12}{'bonus':>12}")
 print("-" * 36)
-with open("M8P3Employees.txt", "r") as infile:
+with open("M8P3Emplyees.txt", "r") as infile:
     lines = infile.readlines()
 
 for i in range(0, len(lines), 2):
