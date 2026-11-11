@@ -1,0 +1,10 @@
+Anderson,88
+Bennett,94
+Whitaker,79
+Thompson,91
+Calloway,85
+Morrison,76
+Blackwell,97
+Garcia,82
+Hawthorne,90
+Miller,87
