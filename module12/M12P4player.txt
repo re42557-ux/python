@@ -1,0 +1,10 @@
+Judge,0.311
+Ohtani,0.310
+Freeman,0.295
+Hawkins,0.289
+Delgado,0.285
+Matsuda,0.308
+Guerrero,0.323
+Callahan,0.295
+Bichette,0.311
+Montgomery,0.279
