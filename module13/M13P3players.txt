@@ -1,0 +1,10 @@
+Taylor,0.285
+Robinson,0.312
+Clark,0.276
+Lewis,0.298
+Walker,0.321
+Hall,0.267
+Allen,0.305
+Young,0.289
+King,0.274
+Wright,0.315
