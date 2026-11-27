@@ -1,4 +1,9 @@
 # Car Spotting Database
+# This program allows car enthusiats to keep track of cars
+# they have spotted. Users can add new cars, view
+# all saved cars, search for cars, and delete cars.
+# The program also saves car information to a text
+# file so the record can be loaded again later.
 cars = []
 # Add a car
 def add_car():
